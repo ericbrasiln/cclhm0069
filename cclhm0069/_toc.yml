@@ -1,2 +1,21 @@
 format: jb-book
 root: index
+parts:
+  - caption: A disciplina 
+    chapters:
+    - file: 1_ementa
+      title: Ementa
+    - file: 2_estrutura-do-curso
+      title: Estrutura do Curso
+      sections:
+      - file: 2_1_cronograma
+    - file: 3_metodologia
+      title: Metodologia
+    - file: 4_site
+      title: Como usar o site
+    - file: 5_praticas
+      title: Guia de Boas Práticas
+  - caption: Módulo 1
+    chapters:
+    - file: mod1/index
+      title: História na era digital

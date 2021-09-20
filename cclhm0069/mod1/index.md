@@ -19,15 +19,12 @@
 
 Período: 18/10/2021 a 22/10/2021
 
-(section-label)=
 ### Atividade Assíncrona 1
 
 **Vídeo de apoio**
 
 Link em breve.
 
-
-(section-label)=
 ### Encontro Virtual 1
 
 Data: **[27/10/2020]**

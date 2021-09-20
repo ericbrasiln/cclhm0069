@@ -14,7 +14,7 @@ O curso está divido em 3 módulos obrigatórios e mais 2 módulos que o/a disce
 
 ### Encontros virtuais
 
-- Os encontros virtuais terão entre **duas horas e duas horas e trinta minutos de duração**, entre 19h e 21h30min, às quartas-feiras conforme no [cronograma]();
+- Os encontros virtuais terão entre **duas horas e duas horas e trinta minutos de duração**, entre 19h e 21h30min, às quartas-feiras conforme no [cronograma](2_1_cronograma);
 
 - Os encontros virtuais estão dividios entre aulas de **debate de textos da bibliografia do curso**; **workshops** e **live coding**. Não serão aulas expositivas, portanto, a leitura dos textos indicados e a realização da parte prática é fundamental para participar do encontro;
 
@@ -66,7 +66,7 @@ Não é obrigatório participar através do Discord. O convite para participar n
 ## Avaliação da aprendizagem
 
 - O/a discente terá duas atividades avaliativas que devem ser entregues pelo SIGAA ao longo do curso;
-- Os prazos estão definidos no [cronograma]() do curso.
+- Os prazos estão definidos no cronograma do curso.
 - As frequências serão aferidas através da entrega das atividades avaliativas.
 - Atividade 1: reflexão teórica, valor 4,0 pontos;
 - Atividade 2: Resultado prático digital, valor 6,0 pontos

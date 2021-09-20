@@ -60,8 +60,8 @@ launch_buttons:
   # colab_url                 : "" # The URL of Google Colab (https://colab.research.google.com)
 
 repository:
-  url                       : https://github.com/ericbrasiln/cclhm0069  # The URL to your book's repository
-  path_to_book              : "cclhm0069"  # A path to your book's folder, relative to the repository root.
+  url                       : https://ericbrasiln.github.io/intro-historia-digital/  # The URL to your book's repository
+  path_to_book              : "docs"  # A path to your book's folder, relative to the repository root.
   branch                    : main  # Which branch of the repository should be used when creating links
 
 #######################################################################################

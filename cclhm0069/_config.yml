@@ -1,9 +1,9 @@
 #######################################################################################
 # Book settings
-title                       : "CCLHM0069 - Introdução à História Digital"
+title                       : "Introdução à História Digital"
 author                      : <a href="https://ericbrasiln.github.io/">Eric Brasil</a>  # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
-logo                        : "images/logo/logo.png"  # A path to the book logo
+logo                        : "images/logo/logohist.png"  # A path to the book logo
 execute:
   execute_notebooks: "off"
 

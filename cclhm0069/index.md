@@ -1,28 +1,17 @@
-# CCLHM0069 - Introdução à História Digital
+![banenr](images/banner1.png)
 
-Professor [_Eric Brasil_](https://ericbrasiln.github.io)
+# Introdução à História Digital
 
-no Twitter como <a href="https://twitter.com/ericbrasiln">'@ericbrasiln'</a>
-ou por e-mail : profericbrasil@unilab.edu.br / ericbrasiln@protonmail.com
-
-**Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)**
-
-**Disciplina optativa do curso de [licenciatura em História](http://historia.males.unilab.edu.br/)**
-
-**Semestre**: 2021.1
-
-**Carga Horária**:
-
-| Teórica             | Prática como compontente curricular         | Total |
-|:--------------------|:------------------|:---------|
-| 60h | 15h | 75h |
-
-**Horário das aulas síncronas** (conforme cronograma): quartas-feiras, 19h às 21h
+Professor [_Eric Brasil_](https://ericbrasiln.github.io). No Twitter como <a href="https://twitter.com/ericbrasiln">'@ericbrasiln'</a> ou por e-mail : profericbrasil@unilab.edu.br / ericbrasiln@protonmail.com
 
 ***
 
-(Quase) Tudo que vc precisa saber sobre a disciplina CCLHM0069 - Introdução à História Digital
+Site com material para a disciplina CCLHM0069 - Introdução à História Digital, semestre 2021.1.
 
-Sejam bem-vindos/as ao curso!
+Disciplina optativa **do curso de [licenciatura em História](http://historia.males.unilab.edu.br/)** do **Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)**
+
+Aqui você enontra (quase) tudo que precisa saber sobre o curso.
+
+Sejam bem-vindos/as!
 
 Mesmo nesse momento tão difícil, vamos nos empenhar em ter um semestre tranquilo e compreensivo.

@@ -6,7 +6,7 @@ parts:
     - file: 1_ementa
       title: Ementa
       sections:
-      - file: 1_1_bilio
+      - file: 1_1_biblio
         title: Bibliografia
     - file: 2_estrutura-do-curso
       title: Estrutura do Curso

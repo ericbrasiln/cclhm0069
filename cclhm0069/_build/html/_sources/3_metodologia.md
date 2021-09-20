@@ -22,7 +22,9 @@ O curso está divido em 3 módulos obrigatórios e mais 2 módulos que o/a disce
   
 - Os links para acesso da sala no _Google Meet_ serão enviados com antecedência para os e-mails cadastrados no SIGAA. 
 
-{{< alert theme="info" >}} Não haverá permissão de ingresso na sala virtual após o início do encontro. Os/as discentes devem aceitar o convite para participar através do link antes do início da aula. {{< /alert >}}
+:::{note}
+Não haverá permissão de ingresso na sala virtual após o início do encontro. Os/as discentes devem aceitar o convite para participar através do link antes do início da aula.
+:::
 
 ### Plantões de atendimento via _Discord_:
 
@@ -30,7 +32,9 @@ O curso está divido em 3 módulos obrigatórios e mais 2 módulos que o/a disce
 
 [Clique aqui](https://youtu.be/5nE__B9w20w) para assistir a um tutorial de como participar de nosso servidor no Discord.
 
-{{< alert theme="warning" >}}Não é obrigatório participar através do Discord. O convite para participar no discord será enviado para o e-mail cadastrado no SIGAA.{{< /alert >}}
+:::{note}
+Não é obrigatório participar através do Discord. O convite para participar no discord será enviado para o e-mail cadastrado no SIGAA.
+::::
 
 ## Atividades Assíncronas (AA)
 

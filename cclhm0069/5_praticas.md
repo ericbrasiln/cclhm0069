@@ -12,7 +12,9 @@ Não haverá permissão de ingresso na sala virtual após o início do encontro.
 
 Ao entrar na sala virtual, manter o microfone fechado. Todos e todas são encorajados a manter suas câmeras abertas, se se sentirem a vontade e tiverem condições técnicas.
 
-{{< alert theme="success" >}}Vamos sempre lembrar que todos/as estamos enfrentando a pandemia da melhor maneira possível. Vamos ser gentis, respeitar os/as colegas, o professor e o/a monitor/a.{{< /alert >}}
+:::{note}
+Vamos sempre lembrar que todos/as estamos enfrentando a pandemia da melhor maneira possível. Vamos ser gentis, respeitar os/as colegas, o professor e o/a monitor/a.
+:::
 
 ### Leituras
 
@@ -30,7 +32,9 @@ Além das leituras, teremos vídeo-aulas expositivas (entre 45min e 1h), algumas
 
 Teremos três **Atividades Avaliativas** para medir pontuação e aferir presenças. Essas atividades estarão disponíveis no SIGAA e devem ser entregues exclusivamentes pelo SIGAA dentro do prazo previsto.
 
-{{< alert theme="warning" >}}Não serão aceitas atividades avaliativas entregues por e-mail{{< /alert >}}
+:::{note}
+Não serão aceitas atividades avaliativas entregues por e-mail.
+:::
 
 ## Sobre a correção das atividades avaliativas
 
@@ -38,7 +42,9 @@ As atividades avaliativas serão corrigidas e comentadas no SIGAA. Levarei em co
 
 É indicado que as atividades entregues no SIGAA estejam nos formatos .doc, .docx,.txt.,.odt ou .md.
 
-{{< alert theme="info" >}}Não enviem as atividades avaliativas em formato PDF.{{< /alert >}}
+:::{note}
+Não enviem as atividades avaliativas em formato PDF.
+:::
 
 ### Referências bibliográficas
 
@@ -77,4 +83,6 @@ Estarei frequentemente on-line para tirar dúvidas e esclarecer tarefas, ouvir s
 
 Essa é a primeira vez que pretendo usar esse recurso com uma turma e torço pra que a experiência seja proveitosa.
 
-{{< alert theme="info" >}}Não há obrigatoriedade em utilizar o _Discord_.{{< /alert >}}
+:::{note}
+Não há obrigatoriedade em utilizar o _Discord_.
+:::

@@ -3,19 +3,19 @@ root: index
 parts:
   - caption: A disciplina 
     chapters:
-    - file: 1-ementa.md
+    - file: 1-ementa
       title: Ementa
-    - file: 2-estrutura-do-curso.md
+    - file: 2-estrutura-do-curso
       title: Estrutura do Curso
       sections:
-      - file: 2-1-cronograma.md
-    - file: 3-metodologia.md
+      - file: 2-1-cronograma
+    - file: 3-metodologia
       title: Metodologia
-    - file: 4-site.md
+    - file: 4-site
       title: Como usar o site
-    - file: 5-praticas.md
+    - file: 5-praticas
       title: Guia de Boas Práticas
   - caption: Módulo 1
     chapters:
-    - file: mod1/chapter1
+    - file: mod1/index
       title: História na era digital

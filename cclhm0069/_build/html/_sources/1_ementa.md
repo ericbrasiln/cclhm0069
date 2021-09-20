@@ -17,7 +17,7 @@ ou por e-mail : profericbrasil@unilab.edu.br / ericbrasiln@protonmail.com
 |:--------------------|:------------------|:---------|
 | 60h | 15h | 75h |
 
-**Horário das aulas síncronas** (conforme [cronograma](cronograma)): quartas-feiras, 19h às 21h
+**Horário das aulas síncronas** (conforme cronograma): quartas-feiras, 19h às 21h
 
 ***
 

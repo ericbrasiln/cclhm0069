@@ -1,11 +1,3 @@
----
-title: "Estrutura do curso"
-date: 2021-09-12
-description: "Estrutura geral do curso dividida em módulos"
-draft: false
-weight: 1
----
-
 # Estrutura do curso
 
 

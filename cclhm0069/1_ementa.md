@@ -1,11 +1,3 @@
----
-title: "Ementa"
-date: Sys.Date()
-description: ""
-draft: false
-weight: 1
----
-
 # CCLHM0069 Introdução à História Digital
 
 Professor [_Eric Brasil_](https://ericbrasiln.github.io)

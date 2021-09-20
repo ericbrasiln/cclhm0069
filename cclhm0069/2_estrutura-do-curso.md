@@ -79,7 +79,9 @@ weight: 1
 
 ## Percursos Possíveis
 
-> A partir daqui, o/a discente deve escolher um dos módulos a seguir para cursar.
+:::{note}
+A partir daqui, o/a discente deve escolher um dos módulos a seguir para cursar.
+:::
 
 ### 4a. Ferramentas digitais e o ensino de história
 

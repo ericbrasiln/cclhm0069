@@ -1,10 +1,10 @@
 # Ementa
 
-Código: CCLHM0069
+**Código**: CCLHM0069
 
-Título: Introdução à História Digital
+**Título**: Introdução à História Digital
 
-Professor: [_Eric Brasil_](https://ericbrasiln.github.io)
+**Professor**: [_Eric Brasil_](https://ericbrasiln.github.io)
 
 **Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)**
 

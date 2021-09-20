@@ -22,3 +22,6 @@ parts:
     chapters:
     - file: mod1/index
       title: História na era digital
+      sections:
+      - file: mod1/sem1
+        title: Semana 1

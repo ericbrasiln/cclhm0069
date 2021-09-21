@@ -1,16 +1,12 @@
 # Estrutura do curso
 
-
-
 **Legenda**
 
-| Sigal | Significado          |
+| Sigla | Significado          |
 | ----- | -------------------- |
 | EV    | Encontro Virtual     |
 | AA    | Atividade Assíncrona |
 | CH    | Carga horária        |
-
-
 
 ## Módulos Obrigatórios
 

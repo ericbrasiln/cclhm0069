@@ -1,10 +1,8 @@
-![banenr](images/banner1.png)
+![banner](images/1.png)
 
-# Introdução à História Digital
+Criado por [_Eric Brasil_](https://ericbrasiln.github.io) // Impulsionado pelo [Jupyter Book](https://jupyterbook.org/)
 
-Professor [_Eric Brasil_](https://ericbrasiln.github.io). No Twitter como <a href="https://twitter.com/ericbrasiln">'@ericbrasiln'</a> ou por e-mail : profericbrasil@unilab.edu.br / ericbrasiln@protonmail.com
-
-***
+# Bem-vindos/as
 
 Site com material para a disciplina CCLHM0069 - Introdução à História Digital, semestre 2021.1.
 
@@ -15,3 +13,5 @@ Aqui você enontra (quase) tudo que precisa saber sobre o curso.
 Sejam bem-vindos/as!
 
 Mesmo nesse momento tão difícil, vamos nos empenhar em ter um semestre tranquilo e compreensivo.
+
+Entre em contato: no Twitter como <a href="https://twitter.com/ericbrasiln">'@ericbrasiln'</a> ou por e-mail : profericbrasil@unilab.edu.br / ericbrasiln@protonmail.com

@@ -14,9 +14,9 @@
 
 **Carga Horária**:
 
-| Teórica             | Prática como compontente curricular         | Total |
-|:--------------------|:------------------|:---------|
-| 60h | 15h | 75h |
+| Teórica | Prática como compontente curricular | Total |
+| :------ | :---------------------------------- | :---- |
+| 60h     | 15h                                 | 75h   |
 
 **Horário das aulas síncronas** (conforme cronograma): quartas-feiras, 19h às 21h
 

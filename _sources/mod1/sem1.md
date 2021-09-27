@@ -1,13 +1,17 @@
 # Semana 1
 
-Período: 18/10/2021 a 22/10/2021
+Período: 11/10/2021 a 15/10/2021
 
 ## Atividade Assíncrona 1
 
-**Vídeo de apoio**
+**Vídeo de apresentação da disciplina**
+
+**CH**: 1h
 
 Link em breve.
 
-## Encontro Virtual 1
+**Formulário de apresentação**
 
-Data: **[27/10/2020]**
+**CH**: 1h
+
+Link em breve.

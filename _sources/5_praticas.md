@@ -18,7 +18,7 @@ Vamos sempre lembrar que todos/as estamos enfrentando a pandemia da melhor manei
 
 ### Leituras
 
-Esse é um curso obrigatório do PPC do curso de licenciatura em História. As leituras indicadas são fundamentais atingir os objetivos da disciplina.
+As leituras indicadas são fundamentais para atingirmos os objetivos da disciplina.
 
 Portanto, é parte das tarefas dos/as discentes ler a bibliografia.
 
@@ -28,9 +28,9 @@ Devido o caráter remoto de nossa disciplina, estou conferindo carga horária pa
 
 Ao longo do curso, teremos várias atividades assíncronas. Elas são fundamentais para a composição da carga horária e para que possamos atingir os nossos objetivos.
 
-Além das leituras, teremos vídeo-aulas expositivas (entre 45min e 1h), algumas tarefas (como assistir vídeos complementares, ouvir podcasts, acessar páginas indicadas). Essas atividades contam carga horária, mas não pontuação nem contam como presença.
+Além das leituras, teremos vídeo-aulas e/ou tutorais (entre 45min e 1h), algumas tarefas (como assistir vídeos complementares, ouvir podcasts, acessar páginas indicadas). Essas atividades contam carga horária, mas não pontuação nem presença.
 
-Teremos três **Atividades Avaliativas** para medir pontuação e aferir presenças. Essas atividades estarão disponíveis no SIGAA e devem ser entregues exclusivamentes pelo SIGAA dentro do prazo previsto.
+Teremos duas **Atividades Avaliativas** para medir pontuação e aferir presenças. Essas atividades estarão disponíveis no SIGAA e devem ser entregues exclusivamentes pelo SIGAA dentro do prazo previsto.
 
 :::{note}
 Não serão aceitas atividades avaliativas entregues por e-mail.
@@ -52,7 +52,7 @@ Não enviem as atividades avaliativas em formato PDF.
 
 Como material de apoio, disponibilizarei uma biblioteca das referências utilizadas no curso construída com o programa [Zotero](https://www.zotero.org/).
 
-Indico fortemente que passem a utilizar algum programa pára gerenciar referências bibliográficas. 
+Indico fortemente que passem a utilizar algum programa para gerenciar referências bibliográficas. 
 Para maiores informações sobre o Zotero, veja:
 
 - [Aula do curso Ferramentas digitais](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/aula3-zotero.html)

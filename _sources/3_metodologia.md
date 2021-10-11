@@ -60,7 +60,7 @@ Não é obrigatório participar através do Discord. O convite para participar n
 - Google Meet;
 - Site da disciplina;
 - SIGAA;
-- Vídeo-aulas;
+- Vídeo-aulas e tutoriais;
 - Biblioteca de referências no Zotero.
 
 ## Avaliação da aprendizagem

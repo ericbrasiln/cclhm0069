@@ -5,7 +5,7 @@
 ## Leitura 1
 
 :::{note}
-Essa leitura será debatida no Encontro Virtual 1, no dia 27/10/2021.
+Essa leitura será debatida no [Encontro Virtual 1](https://ericbrasiln.github.io/intro-historia-digital/mod1/sem3.html#encontro-virtual-1-as), no dia 27/10/2021.
 :::
 
 **CH**: 3 horas

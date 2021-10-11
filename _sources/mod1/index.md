@@ -12,8 +12,8 @@
 ## Temas
 
 1. História e tecnologia
-   1. Conceito de tecnologia e sua história
-   2. DH no plural
+   * Conceito de tecnologia e sua história
+   * DH no plural
 2. Passado, futuro e presente do digital na História: Fontes. método e análise
-   1. Letramento digital e desigualdade global
-   2. Ética na pesquisa digital
+   * Letramento digital e desigualdade global
+   * Ética na pesquisa digital

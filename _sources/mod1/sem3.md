@@ -7,7 +7,7 @@
 **Tema**: História e tecnoligia
 
 :::{note}
-Para essa aula é preciso ler a Leitura 1.
+Para essa aula é preciso ler a _Leitura 1_.
 :::
 
 **Data**: 19/10/2021
@@ -23,7 +23,7 @@ Para essa aula é preciso ler a Leitura 1.
 ## Leitura 2
 
 :::{note}
-Essa leitura será debatida no Encontro Virtual 2, no dia 03/11/2021.
+Essa leitura será debatida no [Encontro Virtual 2](https://ericbrasiln.github.io/intro-historia-digital/mod1/sem2.html#leitura-1), no dia 03/11/2021.
 :::
 
 **CH**: 3 horas

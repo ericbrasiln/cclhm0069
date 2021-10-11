@@ -1,7 +1,5 @@
 # Metodologia
 
-# Metodologias de ensino:
-
 * O curso está divido em 3 módulos obrigatórios para todos/as.
 
 * Teremos ainda mais 2 módulos para o/a discente escolher um para cursar.

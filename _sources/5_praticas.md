@@ -79,9 +79,7 @@ O [Discord](https://discord.com/) é uma plataforma de comunicação que pode se
 
 Vocês serão convidados para serem membros de um servidor (como um grupo de mensagens) específico da turma. 
 
-Estarei frequentemente on-line para tirar dúvidas e esclarecer tarefas, ouvir sugestões e críticas. O horário fixo de atendimento é segunda-feira, de 16h às 16h.
-
-Essa é a primeira vez que pretendo usar esse recurso com uma turma e torço pra que a experiência seja proveitosa.
+Estarei frequentemente on-line para tirar dúvidas e esclarecer tarefas, ouvir sugestões e críticas. O horário fixo de atendimento é segunda-feira, de 15h às 16h.
 
 :::{note}
 Não há obrigatoriedade em utilizar o _Discord_.

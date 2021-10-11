@@ -1,3 +1,3 @@
 # Como usar o site
 
-[explicar]
+Em breve...

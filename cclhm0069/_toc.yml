@@ -25,3 +25,11 @@ parts:
       sections:
       - file: mod1/sem1
         title: Semana 1
+      - file: mod1/sem2
+        title: Semana 2
+      - file: mod1/sem3
+        title: Semana 3
+  - caption: Contatos
+    chapters:
+    - file: contatos
+      title: Contatos    

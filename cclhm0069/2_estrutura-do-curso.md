@@ -1,5 +1,11 @@
 # Estrutura do curso
 
+:::{note}
+O curso está pensado em semanas - da semana 1 até a semana 13. Teremos entre 7 e 11 encontros síncronos (dependendo do percurso escolhifo pelo/a discente).
+
+Abaixo, a estrutura dos módulos. Em breve será divulgado o cronograma completo no SIGAA e no site da disciplina. 
+:::
+
 **Legenda**
 
 | Sigla | Significado          |
@@ -84,7 +90,7 @@ A partir daqui, o/a discente deve escolher um dos módulos a seguir para cursar.
 
 1. Markdown
 2. [StoryMapJs](https://storymap.knightlab.com/)
-3. Reveal.js
+3. [Reveal.js](https://revealjs.com/)
 
 ---
 

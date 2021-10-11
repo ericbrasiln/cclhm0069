@@ -9,26 +9,27 @@ parts:
       - file: 1_1_biblio
         title: Bibliografia
     - file: 2_estrutura-do-curso
-      title: Estrutura do Curso
-      sections:
-      - file: 2_1_cronograma
+      title: Estrutura do Curso      
+    - file: 2_1_cronograma
+      title: Cronograma
     - file: 3_metodologia
       title: Metodologia
     - file: 4_site
       title: Como usar o site
     - file: 5_praticas
       title: Guia de Boas Práticas
-  - caption: Módulo 1
+  - caption: Módulo 1 - História na era digital
     chapters:
     - file: mod1/index
-      title: História na era digital
-      sections:
-      - file: mod1/sem1
-        title: Semana 1
-      - file: mod1/sem2
-        title: Semana 2
-      - file: mod1/sem3
-        title: Semana 3
+      title: Introdução
+    - file: mod1/sem1
+      title: Semana 1
+    - file: mod1/sem2
+      title: Semana 2
+    - file: mod1/sem3
+      title: Semana 3
+    - file: mod1/sem4
+      title: Semana 4
   - caption: Contatos
     chapters:
     - file: contatos

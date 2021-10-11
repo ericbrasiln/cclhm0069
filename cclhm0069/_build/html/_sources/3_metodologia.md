@@ -1,8 +1,14 @@
 # Metodologia
 
-# Metodologias de ensino:
+* O curso está divido em 3 módulos obrigatórios para todos/as.
 
-O curso está divido em 3 módulos obrigatórios e mais 2 módulos que o/a discente deve optar por um para cursar. Cada módulo reúne um conjunto de atividades síncronas e assíncronas organizadas por semana.
+* Teremos ainda mais 2 módulos para o/a discente escolher um para cursar.
+
+* Cada módulo reúne um conjunto de atividades síncronas e assíncronas organizadas por semana.
+
+* Todo material da disciplina estará disponível no site construído especialmente para ela, assim como tudo estará replicado no SIGAA.
+  
+* Não há pré-requisitos de conhecimentos técnicos para cursar a disciplina.
 
 ## Atividades Síncronas (AS)
 
@@ -22,7 +28,7 @@ Não haverá permissão de ingresso na sala virtual após o início do encontro.
 
 ### Plantões de atendimento via _Discord_:
 
-- Toda segunda-feira, entre 15h e 16h, estarei on-line no servidor do Discord disponível para atender dúvidas, demandas, responder comentários, debater questões pertientes e tentar tornar essa experiência mais humana.
+- Toda segunda-feira, entre 15h e 16h, estarei on-line no servidor do Discord disponível para atender dúvidas, demandas, responder comentários, debater questões pertinentes e tentar tornar essa experiência mais humana.
 
 [Clique aqui](https://youtu.be/5nE__B9w20w) para assistir a um tutorial de como participar de nosso servidor no Discord.
 
@@ -54,7 +60,7 @@ Não é obrigatório participar através do Discord. O convite para participar n
 - Google Meet;
 - Site da disciplina;
 - SIGAA;
-- Vídeo-aulas;
+- Vídeo-aulas e tutoriais;
 - Biblioteca de referências no Zotero.
 
 ## Avaliação da aprendizagem

@@ -22,6 +22,4 @@
 
 ***
 
-## Ementa
-
-O campo das humanidades digitais: definições, limites e possibilidades. Desenvolvimento histórico-cultural das tecnologias digitais de informação e comunicação (TDIC’s) e suas relações com a história. Fontes, leitura e escrita digitais: desafios contemporâneos para a teoria da história. Desafios metodológicos e ferramentas digitais na pesquisa e no ensino de história: CAQDAS, gerenciadores de referências, aplicativos de georreferenciamento, repositórios de fontes, bibliotecas e hemerotecas digitais. Redes sociais, mídias digitais e perspectivas futuras para a pesquisa e o ensino de história. Reflexões sobre raça, classe e gênero em sociedades digitais.
+**Ementa**: O campo das humanidades digitais: definições, limites e possibilidades. Desenvolvimento histórico-cultural das tecnologias digitais de informação e comunicação (TDIC’s) e suas relações com a história. Fontes, leitura e escrita digitais: desafios contemporâneos para a teoria da história. Desafios metodológicos e ferramentas digitais na pesquisa e no ensino de história: CAQDAS, gerenciadores de referências, aplicativos de georreferenciamento, repositórios de fontes, bibliotecas e hemerotecas digitais. Redes sociais, mídias digitais e perspectivas futuras para a pesquisa e o ensino de história. Reflexões sobre raça, classe e gênero em sociedades digitais.

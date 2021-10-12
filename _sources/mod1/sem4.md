@@ -19,5 +19,3 @@ Para essa aula é preciso ler a [_Leitura 2_](https://ericbrasiln.github.io/intr
 **CH**: 2 horas
 
 **Plataforma**: `Google Meet` - link enviado por e-mail.
-
----

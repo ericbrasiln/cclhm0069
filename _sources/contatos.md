@@ -6,6 +6,9 @@
 ## Twitter
   - <a href="https://twitter.com/ericbrasiln" target="_blank">@ericbrasiln</a>
 
+## Instagram
+  - <a href="https://www.instagram.com/ericbrasiln/" target="_blank">ericbrasiln</a>
+
 ## Site pessoal
   - <a href="https://ericbrasiln.github.io/" target="_blank"> ericbrasiln.github.io</a>
 

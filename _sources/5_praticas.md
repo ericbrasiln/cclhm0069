@@ -1,6 +1,6 @@
 # Guia de boas práticas
 
-Conjunto de sugestões e indicações de boas práticas para o bom funcionamento do curso ao longo do semestre 2020.2.
+Conjunto de sugestões e indicações de boas práticas para o bom funcionamento do curso ao longo do semestre 2021.1.
 
 ## Sobre os encontros virtuais
 

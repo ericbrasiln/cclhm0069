@@ -25,7 +25,7 @@ Para essa aula é preciso ler a [_Leitura 1_](https://ericbrasiln.github.io/intr
 ## Leitura 2
 
 :::{note}
-Essa leitura será debatida no [Encontro Virtual 2](), no dia 03/11/2021.
+Essa leitura será debatida no Encontro Virtual 2, no dia 03/11/2021.
 :::
 
 **CH**: 3 horas

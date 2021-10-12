@@ -20,7 +20,7 @@ parts:
       title: Guia de Boas Práticas
   - caption: Módulo 1 - História na era digital
     chapters:
-    - file: mod1/index
+    - file: mod1/intro
       title: Introdução
     - file: mod1/sem1
       title: Semana 1

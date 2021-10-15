@@ -47,10 +47,10 @@ Abaixo, a estrutura dos módulos. Em breve será divulgado o cronograma completo
 
 #### Temas
 
-1. Coleta de dados: Repositórios de fontes online e a pesquisa digital
-2. Organização: Zotero
-3. Tratamento: OCR
-4. Análise: Voyant tools
+1. Workshop 01: Repositórios de fontes online e a pesquisa digital
+2. Vídeo-aula: Organização: Zotero
+3. Workshop 02: Tratamento de texto com OCR
+4. Workshop 03: Análise de texto: Voyant tools e TagTog
 
 ---
 

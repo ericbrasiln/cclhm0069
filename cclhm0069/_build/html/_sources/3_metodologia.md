@@ -14,7 +14,7 @@
 
 ### Encontros virtuais
 
-- Os encontros virtuais terão entre **duas horas e duas horas e trinta minutos de duração**, entre 19h e 21h30min, às quartas-feiras conforme no [cronograma](2_1_cronograma);
+- Os encontros virtuais terão entre **duas horas e duas horas e trinta minutos de duração**, entre 19h e 21h30min, às quartas-feiras conforme no [cronograma](2_1_cronograma-4a);
 
 - Os encontros virtuais estão dividios entre aulas de **debate de textos da bibliografia do curso**; **workshops** e **live coding**. Não serão aulas expositivas, portanto, a leitura dos textos indicados e a realização da parte prática é fundamental para participar do encontro;
 

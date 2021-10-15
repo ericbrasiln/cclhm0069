@@ -10,7 +10,7 @@ parts:
         title: Bibliografia
     - file: 2_estrutura-do-curso
       title: Estrutura do Curso      
-    - file: 2_1_cronograma
+    - file: 2_1_cronograma-4a
       title: Cronograma
     - file: 3_metodologia
       title: Metodologia
@@ -30,6 +30,56 @@ parts:
       title: Semana 3
     - file: mod1/sem4
       title: Semana 4
+  - caption: Módulo 2 - Ferramentas digitais e pesquisa em história
+    chapters:
+    - file: mod2/intro
+      title: Introdução
+    - file: mod2/sem5
+      title: Semana 5
+    - file: mod2/sem6
+      title: Semana 6
+    - file: mod2/sem7
+      title: Semana 7
+    - file: mod2/sem8
+      title: Semana 8
+  - caption: Módulo 3 - Algoritmos, Dataficação e Sociedade
+    chapters:
+    - file: mod3/intro
+      title: Introdução
+    - file: mod3/sem9
+      title: Semana 9
+    - file: mod3/sem10
+      title: Semana 10
+  - caption: Módulo 4a - Ferramentas digitais e ensino de história
+    chapters:
+    - file: mod4a/intro
+      title: Introdução
+    - file: mod4a/sem11
+      title: Semana 11
+    - file: mod4a/sem12
+      title: Semana 12
+    - file: mod4a/sem13
+      title: Semana 13
+    - file: mod4a/sem14
+      title: Semana 14
+  - caption: Módulo 4b - Paragramação para História
+    chapters:
+    - file: mod4b/intro
+      title: Introdução
+    - file: mod4b/sem11
+      title: Semana 11
+    - file: mod4b/sem12
+      title: Semana 12
+    - file: mod4b/sem13
+      title: Semana 13
+    - file: mod4b/sem14
+      title: Semana 14
+  - caption: Atividades Avaliativas
+    chapters:
+    - file: at_aval/at1
+      title: AT1
+    - file: at_aval/at2
+      title: AT2
   - caption: Contatos
     chapters:
     - file: contatos

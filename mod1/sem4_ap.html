@@ -594,7 +594,7 @@
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># para cada entidade até 50 tokens</span>
-<span class="k">for</span> <span class="n">named_entity</span> <span class="ow">in</span> <span class="n">doc</span><span class="o">.</span><span class="n">ents</span><span class="p">[:</span><span class="mi">50</span><span class="p">]:</span>
+<span class="k">for</span> <span class="n">named_entity</span> <span class="ow">in</span> <span class="n">doc</span><span class="o">.</span><span class="n">ents</span><span class="p">[:</span><span class="mi">20</span><span class="p">]:</span>
     <span class="c1"># imprimindo o nome da entidade</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">named_entity</span><span class="o">.</span><span class="n">text</span><span class="p">,</span> <span class="n">named_entity</span><span class="o">.</span><span class="n">label_</span><span class="p">)</span>
 </pre></div>
@@ -624,36 +624,6 @@ Camargo LOC
 Quer MISC
 Estácio PER
 Estácio PER
-Interiormente LOC
-Estácio PER
-Camargo PER
-Camargo LOC
-Estácio PER
-D. Úrsula PER
-Estácio PER
-Estácio PER
-Camargo PER
-D. Úrsula PER
-Um erro! MISC
-D. Úrsula PER
-Camargo LOC
-D. Úrsula PER
-D. Úrsula PER
-Estácio PER
-Melchior PER
-Estácio PER
-Dr. Camargo PER
-Exumou PER
-devassou LOC
-Dr. Camargo PER
-Estácio PER
-Camargo LOC
-Eugênia PER
-Camargo LOC
-Camargo PER
-Rio Comprido LOC
-D. Tomásia PER
-Eugênia PER
 </pre></div>
 </div>
 </div>
@@ -12472,7 +12442,7 @@ CAPÍTULO I
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">for</span> <span class="n">document</span> <span class="ow">in</span> <span class="n">chunked_documents</span><span class="p">:</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">for</span> <span class="n">document</span> <span class="ow">in</span> <span class="n">chunked_documents</span><span class="p">[:</span><span class="mi">10</span><span class="p">]:</span>
     <span class="n">get_ner_in_context</span><span class="p">(</span><span class="s1">&#39;Andaraí&#39;</span><span class="p">,</span> <span class="n">document</span><span class="p">)</span>
 </pre></div>
 </div>
@@ -12493,56 +12463,11 @@ CAPÍTULO I
 <hr class="docutils" />
 <p><strong>LOC</strong></p>
 <p>Das outras pessoas que freqüentavam a casa e residiam no mesmo bairro de <strong>Andaraí</strong>, mencionaremos ainda o Dr. Matos, sua mulher, o coronel Macedo e dous filhos.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>No terceiro dia, D. Tomásia e Eugênia foram jantar a <strong>Andaraí</strong>.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>Voltando a <strong>Andaraí</strong>, Estácio trazia a alma pura de todas as más impressões que lhe deixavam usualmente as visitas à casa de Camargo.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>Para contrastar com ela, tinha ele as manhãs do <strong>Andaraí</strong> e algumas noites do Rio Comprido.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>Ali entrados, abriu a moça uma pasta de desenhos, na qual havia um só, mas significativo: era uma parte da estrada de <strong>Andaraí</strong>, a mesma por onde eles costumavam passear, mas com algumas particularidades do primeiro dia.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>O pensamento estava em <strong>Andaraí</strong>; ela via já na imaginação a cerimônia do consórcio, as carruagens, o apuro do noivo, a sua própria graça, a coroa de flores de laranjeira, que a havia de adornar; enfim talhava já o vestido branco e pregava as rendas de Malines com que havia de levar os olhos a ambas as metades do gênero humano.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>A primeira acrescentou uma cláusula: – os noivos viriam morar com elas em <strong>Andaraí</strong>.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>A última noite passada em <strong>Andaraí</strong> foi cruel para ele; as horas voaram ligeiras como nunca.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>Manda-me alguma cousa que me faça lembrar o <strong>Andaraí</strong>.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>O melhor de tudo é este meio-termo de <strong>Andaraí</strong>; nem estamos fora do mundo nem no meio dele.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>De noite voltou a <strong>Andaraí</strong>;</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>Ninguém esperava por ele em <strong>Andaraí</strong>.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>&quot;Venha hoje a <strong>Andaraí</strong>;</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>Minha casa é conhecida em todo <strong>Andaraí</strong> pela casa do conselheiro Vale...</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>Logo depois do almoço, recebeu uma carta de Mendonça, que, tendo ido na véspera a <strong>Andaraí</strong>, recebera a resposta dada a todos, e mandava saber se havia moléstia em casa.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>No quarto dia chegou a família de Camargo, e, sabendo da doença de Helena, apressou-se a ir a <strong>Andaraí</strong>.</p>
 </div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">for</span> <span class="n">document</span> <span class="ow">in</span> <span class="n">chunked_documents</span><span class="p">[:</span><span class="mi">10</span><span class="p">]:</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">for</span> <span class="n">document</span> <span class="ow">in</span> <span class="n">chunked_documents</span><span class="p">[:</span><span class="mi">5</span><span class="p">]:</span>
     <span class="n">get_ner_in_context</span><span class="p">(</span><span class="s1">&#39;Helena&#39;</span><span class="p">,</span> <span class="n">document</span><span class="p">)</span>
 </pre></div>
 </div>
@@ -12575,111 +12500,6 @@ CAPÍTULO I
 <hr class="docutils" />
 <p><strong>PER</strong></p>
 <p>– O conselheiro falou-me algumas vezes no projeto de reconhecer <strong>Helena</strong>; procurei dissuadi-lo, mas sabe como era teimoso, acrescendo neste caso o natural impulso de amor paterno.</p>
-<hr class="docutils" />
-<p><strong>LOC</strong></p>
-<p>Vivamos na mesma comunhão de afetos; e vejamos em <strong>Helena</strong> uma parte da alma de meu pai, que nos fica para não desfalcar de todo o patrimônio comum.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> estava a concluir os estudos; semanas depois determinou a família que ela viesse para a casa.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>Ao penetrar na chácara, deu com os olhos nas janelas do quarto destinado a <strong>Helena</strong>; estavam abertas;</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>nem o vulto de <strong>Helena</strong> apareceu ali, nem ele viu passar a sombra da habitante nova.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong>?</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>– <strong>Nhanhã Helena</strong> disse que já vem.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>Quase não vira o rosto de <strong>Helena</strong>; e esta, logo que ali chegou, recolheu-se ao aposento que lhe deram, dizendo ter necessidade de repouso.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>Ouviu-se descer a escada um passo rápido, e não tardou que <strong>Helena</strong> aparecesse à porta da sala de jantar.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> detivera-se ao vê-lo.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>– Ah! – disse <strong>Helena</strong>, sorrindo e caminhando para ele.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> ficou à direita, na cadeira que Estácio lhe indicou; este tomou lugar do lado oposto.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong>, posto forcejasse por estar senhora de si, não conseguia vencer de todo o natural acanhamento da ocasião.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>Acabado o almoço, trocadas algumas palavras, poucas e soltas, <strong>Helena</strong> retirou-se ao seu quarto, onde durante três dias passou quase todas as horas, a ler meia dúzia de livros que trouxera consigo, a escrever cartas, a olhar pasmada para o ar, ou encostada ao peitoril de uma das janelas.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>asa do tempo leva tudo; e ao cabo de três dias, já a fisionomia de <strong>Helena</strong> trazia menos sombrio aspecto.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> agradeceu com um olhar longo e profundo.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>– interrompeu <strong>Helena</strong> –.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong>, entretanto, recusou.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> acompanhou o irmão.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> pegou nele e beijou a página aberta.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> ergueu-se.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>Depois de alguns segundos de silêncio, <strong>Helena</strong> enfiou o braço no do irmão e desceram à chácara.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>Fosse influência do lugar ou simples mobilidade de espírito, <strong>Helena</strong> tornou-se logo outra do que se revelara no gabinete do pai.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> pareceu-lhe naquela ocasião, mais do que antes, o complemento da família.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> era esse elemento complementar.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>Mas foi breve a má impressão; <strong>Helena</strong> caminhou para a tia e, pegando-lhe nas mãos, perguntou com toda a doçura da voz:</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>– Pois as casas velhas consertam-se – replicou <strong>Helena</strong> sorrindo.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>D. Úrsula retirou os olhos; porventura receou que o influxo das graças de <strong>Helena</strong> lhe torcessem o coração, e ela queria ficar independente e inconciliável.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>O próprio Estácio, não obstante a primeira impressão, recolhera-se a prudente reserva, de que o arrancou aos poucos o procedimento de <strong>Helena</strong>.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> tinha os predicados próprios a captar a confiança e a afeição da família.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> praticava de livros ou de alfinetes, de bailes ou de arranjos de casa, com igual interesse e gosto, frívola com os frívolos, grave com os que o eram, atenciosa e ouvida, sem entono nem vulgaridade.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>Além das qualidades naturais, possuía <strong>Helena</strong> algumas prendas de sociedade, que a tornavam aceita a todos, e mudaram em parte o teor da vida da família.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>Dos próprios escravos não obteve <strong>Helena</strong> desde logo a simpatia e boa vontade;</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>faltando-lhe os gozos próprios do afeto – a familiaridade e o contato –, condenado a viver da contemplação e da memória, a não beijar sequer a mão que o abençoava, limitado e distanciado pelos costumes, pelo respeito e pelos instintos, Vicente foi, não obstante, um fiel servidor de <strong>Helena</strong>, seu advogado convicto nos julgamentos da senzala.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p>As pessoas da intimidade da casa acolheram <strong>Helena</strong> com a mesma hesitação de D. Úrsula.</p>
-<hr class="docutils" />
-<p><strong>PER</strong></p>
-<p><strong>Helena</strong> sentiu-lhes a polidez fria e parcimoniosa.</p>
 </div>
 </div>
 <div class="section" id="o-que-da-pra-fazer-com-isso">

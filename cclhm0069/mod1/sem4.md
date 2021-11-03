@@ -6,7 +6,7 @@
 
 ## Encontro Virtual 2 (AS)
 
-**Tema**: Passado, futuro e presente do digital na História: Fontes. método e análise
+**Tema**: Passado, futuro e presente do digital na História: Fontes, método e análise
 
 :::{note}
 Para essa aula é preciso ler a [_Leitura 2_](https://ericbrasiln.github.io/intro-historia-digital/mod1/sem3.html#leitura-2).
@@ -19,3 +19,7 @@ Para essa aula é preciso ler a [_Leitura 2_](https://ericbrasiln.github.io/intr
 **CH**: 2 horas
 
 **Plataforma**: `Google Meet` - link enviado por e-mail.
+
+```{attention}
+[_Clique aqui para acessar a apresentação da aula_](https://ericbrasiln.github.io/intro-historia-digital/mod1/sem4_ap.html).
+```

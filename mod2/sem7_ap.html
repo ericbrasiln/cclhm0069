@@ -389,6 +389,23 @@
 
             <!-- Launch buttons -->
 
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Launch interactive content"><i class="fas fa-rocket"></i></button>
+    <div class="dropdown-buttons">
+        
+        <a class="binder-button" href="https://mybinder.org/v2/gh/ericbrasiln/intro-historia-digital/main?urlpath=lab/tree/mod2/sem7_ap.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Launch Binder" data-toggle="tooltip"
+                data-placement="left"><img class="binder-button-logo"
+                    src="../_static/images/logo_binder.svg"
+                    alt="Interact on binder">Binder</button></a>
+        
+        
+        
+        
+    </div>
+</div>
+
         </div>
 
         <!-- Table of contents -->
@@ -433,7 +450,50 @@
 <p>Seu objetivo é possibilitar diferentes estratégias para o reconhecimento de caracteres em diferentes tipos de arquivos.</p>
 <div class="section" id="tutorial-gimagereader-ocr-para-windows-10">
 <h2>Tutorial - <em>gImageReader</em> (OCR para Windows 10)<a class="headerlink" href="#tutorial-gimagereader-ocr-para-windows-10" title="Permalink to this headline">¶</a></h2>
-<iframe width="560" height="315" src="https://youtu.be/_7eqj01Hn0M" title="gImageReader" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;tags&quot;</span><span class="p">:</span> <span class="p">[</span>
+        <span class="s2">&quot;hide-input&quot;</span><span class="p">,</span>
+    <span class="p">]</span>
+<span class="p">}</span>
+<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
+
+<span class="k">def</span> <span class="nf">display_yotube_video</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    Displays a Youtube video in a Jupyter notebook.</span>
+<span class="sd">    </span>
+<span class="sd">    Args:</span>
+<span class="sd">        url (string): a link to a Youtube video.</span>
+<span class="sd">        **kwargs: further arguments for IPython.display.YouTubeVideo</span>
+<span class="sd">    </span>
+<span class="sd">    Returns:</span>
+<span class="sd">        YouTubeVideo: a video that is displayed in your notebook.</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+    <span class="n">id_</span> <span class="o">=</span> <span class="n">url</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s2">&quot;=&quot;</span><span class="p">)[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
+    <span class="k">return</span> <span class="n">YouTubeVideo</span><span class="p">(</span><span class="n">id_</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">display_yotube_video</span><span class="p">(</span><span class="s2">&quot;https://www.youtube.com/watch?v=_7eqj01Hn0M&quot;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">800</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">600</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html">
+<iframe
+    width="800"
+    height="600"
+    src="https://www.youtube.com/embed/_7eqj01Hn0M"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+</div></div>
+</div>
+</div>
 <div class="section" id="tarefa-4">
 <h2>Tarefa 4<a class="headerlink" href="#tarefa-4" title="Permalink to this headline">¶</a></h2>
 <ol class="simple">

@@ -426,6 +426,11 @@
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#workshop-de-reconhecimento-de-caracteres-com-gimagereader">
+   Workshop de reconhecimento de caracteres com gImageReader
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#tarefa-4">
    Tarefa 4
   </a>
@@ -448,6 +453,85 @@
 <p>Para isso teremos um tutorial e um workshop sobre o programa <a class="reference external" href="https://github.com/manisandro/gImageReader">gImageReader</a>.</p>
 <p>O gImageReader é um programa de código livre e aberto, gratuito, que é uma interface gráfica simples que utiliza o <code class="docutils literal notranslate"><span class="pre">tesseract-ocr</span></code>.</p>
 <p>Seu objetivo é possibilitar diferentes estratégias para o reconhecimento de caracteres em diferentes tipos de arquivos.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># exemplo de OCR com Tesseract</span>
+<span class="kn">import</span> <span class="nn">cv2</span> <span class="c1"># é um módulo para manipulação de imagens</span>
+<span class="kn">import</span> <span class="nn">pytesseract</span> <span class="c1"># é uma biblioteca para reconhecimento de texto</span>
+
+<span class="c1"># carregar a imagem</span>
+<span class="n">img_path</span> <span class="o">=</span> <span class="s1">&#39;img/IMG_4689.jpg&#39;</span>
+<span class="c1"># ler a imagem usando o módulo cv2</span>
+<span class="n">img</span> <span class="o">=</span> <span class="n">cv2</span><span class="o">.</span><span class="n">imread</span><span class="p">(</span><span class="n">img_path</span><span class="p">)</span>
+
+<span class="c1"># aplicar o OCR sobre a imagem</span>
+<span class="n">text</span> <span class="o">=</span> <span class="n">pytesseract</span><span class="o">.</span><span class="n">image_to_string</span><span class="p">(</span><span class="n">img</span><span class="p">)</span>
+
+<span class="c1"># exibir o texto</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+
+<span class="c1"># salvar o texto em um arquivo</span>
+<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">&#39;ex_ocr_img.txt&#39;</span><span class="p">,</span> <span class="s1">&#39;w&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+    <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+<span class="c1"># fechar o arquivo</span>
+<span class="n">f</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>     
+   
+  
+  
+   
+  
+   
+ 
+    
+  
+ 
+  
+
+Government House,
+
+19th February, 1904.
+
+sir,
+
+I have the honour to forward for your
+information a copy of a report upon the conduct of the
+public and the police dubing the recent Carnival which
+
+I think may be regarded as highly satisfactory.
+
+Qe The importance of the matter lies wholly
+in the fact that the manner in which the Carnival has
+passed off may be regarded, I consider, as indicative
+of a marked improvement in the state of general public
+
+feeling in Port-of-Spain, both towards the Government
+
+and towards the Police.
+
+I have the honour to bes
+
+Sir,
+
+Your most obedient,
+
+humble Servant,
+
+hevliche a
+Silane —
+
+G Ov) 6s momen.
+
+ 
+
+</pre></div>
+</div>
+</div>
+</div>
 <div class="section" id="tutorial-gimagereader-ocr-para-windows-10">
 <h2>Tutorial - <em>gImageReader</em> (OCR para Windows 10)<a class="headerlink" href="#tutorial-gimagereader-ocr-para-windows-10" title="Permalink to this headline">¶</a></h2>
 <div class="cell docutils container">
@@ -468,6 +552,15 @@
 ></iframe>
 </div></div>
 </div>
+</div>
+<div class="section" id="workshop-de-reconhecimento-de-caracteres-com-gimagereader">
+<h2>Workshop de reconhecimento de caracteres com gImageReader<a class="headerlink" href="#workshop-de-reconhecimento-de-caracteres-com-gimagereader" title="Permalink to this headline">¶</a></h2>
+<p>Os exemplos usados na aula podem ser acessados nos seguintes links:</p>
+<ol class="simple">
+<li><p><a class="reference external" href="https://github.com/ericbrasiln/intro-historia-digital/blob/4e41dca69dd2fd84b1728531a71b120166e86532/cclhm0069/mod2/ex_OCR/img_01.jpeg">Jornal do Brasil, 28 de outubro de 2002, p.1</a></p></li>
+<li><p><a class="reference external" href="https://github.com/ericbrasiln/intro-historia-digital/blob/4e41dca69dd2fd84b1728531a71b120166e86532/cclhm0069/mod2/ex_OCR/img_02.jpeg">Jornal do Brasil, 08 de janeiro de 1917, p.1</a></p></li>
+<li><p><a class="reference external" href="https://github.com/ericbrasiln/intro-historia-digital/blob/4e41dca69dd2fd84b1728531a71b120166e86532/cclhm0069/mod2/ex_OCR/ex_pdf.pdf">Eugene D. Genovese - Da Rebelião à Revolução</a></p></li>
+</ol>
 </div>
 <div class="section" id="tarefa-4">
 <h2>Tarefa 4<a class="headerlink" href="#tarefa-4" title="Permalink to this headline">¶</a></h2>

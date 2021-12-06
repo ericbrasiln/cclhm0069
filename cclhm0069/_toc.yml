@@ -42,12 +42,12 @@ parts:
       title: Semana 7
     - file: mod2/sem8
       title: Semana 8
+    - file: mod2/sem9
+      title: Semana 9
   - caption: Módulo 3 - Algoritmos, Dataficação e Sociedade
     chapters:
     - file: mod3/intro
       title: Introdução
-    - file: mod3/sem9
-      title: Semana 9
     - file: mod3/sem10
       title: Semana 10
   - caption: Módulo 4a - Ferramentas digitais e ensino de história

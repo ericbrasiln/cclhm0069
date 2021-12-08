@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Semana 9 &#8212; CCLHM0069 Introdução à História Digital</title>
+    <title>Análise automática de texto &#8212; CCLHM0069 Introdução à História Digital</title>
     
   <link href="../_static/css/theme.css" rel="stylesheet" />
   <link href="../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
@@ -52,8 +52,6 @@
     <link rel="shortcut icon" href="../_static/favicon.ico"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="3. Algoritmos, Dataficação e Sociedade" href="../mod3/intro.html" />
-    <link rel="prev" title="Semana 8" href="sem8.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
     
@@ -173,7 +171,7 @@
   Módulo 2 - Ferramentas digitais e pesquisa em história
  </span>
 </p>
-<ul class="current nav bd-sidenav">
+<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="intro.html">
    Introdução
@@ -199,8 +197,8 @@
    Semana 8
   </a>
  </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
+ <li class="toctree-l1">
+  <a class="reference internal" href="sem9.html">
    Semana 9
   </a>
  </li>
@@ -355,7 +353,7 @@
         <!-- ipynb file if we had a myst markdown file -->
         
         <!-- Download raw file -->
-        <a class="dropdown-buttons" href="../_sources/mod2/sem9.ipynb"><button type="button"
+        <a class="dropdown-buttons" href="../_sources/mod2/sem9_ap.ipynb"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
                 data-placement="left">.ipynb</button></a>
         <!-- Download PDF via print -->
@@ -375,7 +373,7 @@
                 data-toggle="tooltip" data-placement="left" title="Source repository"><i
                     class="fab fa-github"></i>repository</button></a>
         <a class="issues-button"
-            href="https://github.com/ericbrasiln/intro-historia-digital//issues/new?title=Issue%20on%20page%20%2Fmod2/sem9.html&body=Your%20issue%20content%20here."><button
+            href="https://github.com/ericbrasiln/intro-historia-digital//issues/new?title=Issue%20on%20page%20%2Fmod2/sem9_ap.html&body=Your%20issue%20content%20here."><button
                 type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
                 title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
         
@@ -402,13 +400,45 @@
             <nav id="bd-toc-nav" aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#encontro-virtual-5-as">
-   Encontro Virtual 5 (AS)
+  <a class="reference internal nav-link" href="#do-que-estamos-falando-computadores-podem-ler-textos-e-entender-como-humanos">
+   Do que estamos falando? Computadores podem ler textos e entender como humanos?
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#leitura-4">
-   Leitura 4
+  <a class="reference internal nav-link" href="#semantica-sentido-das-palavras">
+   Semântica: sentido das palavras.
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#ambiguidade">
+     Ambiguidade
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#polissemia">
+     Polissemia
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#corpus">
+   Corpus
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#logo-voyant-tools">
+   Voyant Tools
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#distant-reading">
+   Distant Reading
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#exemplo-corpus-port-of-spain-gazette-1882-1909">
+   Exemplo: Corpus Port-of-Spain Gazette (1882-1909)
   </a>
  </li>
 </ul>
@@ -422,32 +452,93 @@
         
               <div>
                 
-  <div class="section" id="semana-9">
-<h1>Semana 9<a class="headerlink" href="#semana-9" title="Permalink to this headline">¶</a></h1>
-<p><strong>Período</strong>: 06/12/2021 a 10/12/2021</p>
-<p><strong>CH</strong>: 4h</p>
-<div class="section" id="encontro-virtual-5-as">
-<h2>Encontro Virtual 5 (AS)<a class="headerlink" href="#encontro-virtual-5-as" title="Permalink to this headline">¶</a></h2>
-<p><strong>Tema</strong>: Workshop: Análise de texto com Voyant Tools</p>
-<p><strong>Data</strong>: 08/12/2021, às 19h</p>
-<p><strong>CH</strong>: 2h30min</p>
-<p><strong>Plataforma</strong>: <code class="docutils literal notranslate"><span class="pre">Google</span> <span class="pre">Meet</span></code> - link enviado por e-mail.</p>
-<div class="admonition attention">
-<p class="admonition-title">Attention</p>
-<p><a class="reference external" href="https://ericbrasiln.github.io/intro-historia-digital/mod2/sem9_ap.html"><em>Clique aqui para acessar a apresentação da aula</em></a>.</p>
+  <div class="section" id="analise-automatica-de-texto">
+<h1>Análise automática de texto<a class="headerlink" href="#analise-automatica-de-texto" title="Permalink to this headline">¶</a></h1>
+<p><small>Material para o Encontro Virtual 5, 08/12/2021, referente à <a class="reference external" href="https://ericbrasiln.github.io/intro-historia-digital/mod2/sem9.html">semana 9 do curso</a></small></p>
+<p>O objetivo desse encontro virtual é discutir procedimentos automatizados de análise de textos escritos por meio de ferramentas digitais.</p>
+<p>Iniciaremos com um debate sobre as especificidades desses procedimentos e as reflexões anteriores que devem ser consideradas para a construção de um modelo de análise de textos.</p>
+<p>Em seguida, vamos realizar um workshop para o uso do <a class="reference external" href="https://www.voyant-tools.org/">Voyant Tools</a>.</p>
+<div class="section" id="do-que-estamos-falando-computadores-podem-ler-textos-e-entender-como-humanos">
+<h2>Do que estamos falando? Computadores podem ler textos e entender como humanos?<a class="headerlink" href="#do-que-estamos-falando-computadores-podem-ler-textos-e-entender-como-humanos" title="Permalink to this headline">¶</a></h2>
+<p>Como um computador lê?</p>
+</div>
+<div class="section" id="semantica-sentido-das-palavras">
+<h2>Semântica: sentido das palavras.<a class="headerlink" href="#semantica-sentido-das-palavras" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Conotação: significado criado pelo contexto</p></li>
+<li><p>Denotação: sentido original</p></li>
+</ul>
+<div class="section" id="ambiguidade">
+<h3>Ambiguidade<a class="headerlink" href="#ambiguidade" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Escapa ao computador</p></li>
+<li><p>Como remediar essa questão na leitura realizada por computadores?</p></li>
+<li><p>Pensar desambiguidades</p></li>
+</ul>
+</div>
+<div class="section" id="polissemia">
+<h3>Polissemia<a class="headerlink" href="#polissemia" title="Permalink to this headline">¶</a></h3>
+<p>Uma palavra apresentando vários significados.</p>
 </div>
 </div>
-<div class="section" id="leitura-4">
-<h2>Leitura 4<a class="headerlink" href="#leitura-4" title="Permalink to this headline">¶</a></h2>
-<div class="admonition attention">
-<p class="admonition-title">Attention</p>
-<p>Essa leitura será debatida no Encontro Virtual 6, no dia 14/12/2021.</p>
+<div class="section" id="corpus">
+<h2>Corpus<a class="headerlink" href="#corpus" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Uma coleção de textos de uma dada língua reunidos para serem analisados. Esses textos já existiam no idioma e não foram criados para compor o corpus. <a class="reference external" href="http://www.anpad.org.br/admin/pdf/2013_EnANPAD_EPQ1021.pdf">(Silva &amp; Silva, 2013)</a></p></li>
+<li><p>Termo utilizado sobretudo para estudos linguísticos;</p></li>
+<li><p>Analisar o contexto de produção, os susjeitos e grupos sociais que participaram da sua construção, o público alvo, etc.</p></li>
+<li><p>Perguntas de pesquisa (e seus enquadramentos teóricos): são fundamentais para a construção das categorias e etiquetas a serem atribuídas em seu corpus.</p></li>
+</ul>
 </div>
-<p><strong>CH</strong>: 3 horas</p>
-<p><strong>Textos Obrigatórios</strong>:</p>
+<div class="section" id="logo-voyant-tools">
+<h2><a class="reference external" href="https://voyant-tools.org/"><img alt="logo" src="https://github.com/aurelberra/voyant_tools/raw/master/images/voyant-logo_0.png" /></a> Voyant Tools<a class="headerlink" href="#logo-voyant-tools" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://voyant-tools.org/docs/#%21/guide/about">Sobre</a>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Voyant</span> <span class="n">Tools</span> <span class="n">é</span> <span class="n">um</span> <span class="n">ambiente</span> <span class="n">de</span> <span class="n">leitura</span> <span class="n">e</span> <span class="n">análise</span> <span class="n">de</span> <span class="n">texto</span> <span class="n">baseado</span> <span class="n">na</span> <span class="n">web</span><span class="o">.</span> <span class="n">É</span> <span class="n">um</span> <span class="n">projeto</span> <span class="n">acadêmico</span> <span class="n">que</span> <span class="n">visa</span> <span class="n">facilitar</span> <span class="n">a</span> <span class="n">leitura</span> <span class="n">e</span> <span class="k">as</span> <span class="n">práticas</span> <span class="n">interpretativas</span> <span class="n">para</span> <span class="n">estudantes</span> <span class="n">e</span> <span class="n">acadêmicos</span> <span class="n">de</span> <span class="n">humanidades</span> <span class="n">digitais</span><span class="p">,</span> <span class="n">bem</span> <span class="n">como</span> <span class="n">para</span> <span class="n">o</span> <span class="n">público</span> <span class="n">em</span> <span class="n">geral</span><span class="o">.</span>
+
+<span class="n">O</span> <span class="n">que</span> <span class="n">você</span> <span class="n">pode</span> <span class="n">fazer</span> <span class="n">com</span> <span class="n">a</span> <span class="n">Voyant</span><span class="p">:</span>
+
+<span class="o">-</span> <span class="n">Use</span><span class="o">-</span><span class="n">o</span> <span class="n">para</span> <span class="n">aprender</span> <span class="n">como</span> <span class="n">funciona</span> <span class="n">a</span> <span class="n">análise</span> <span class="n">assistida</span> <span class="n">por</span> <span class="n">computador</span><span class="o">.</span> <span class="n">Confira</span> <span class="n">nossos</span> <span class="n">exemplos</span> <span class="n">que</span> <span class="n">mostram</span> <span class="n">como</span> <span class="n">realizar</span> <span class="n">tarefas</span> <span class="n">acadêmicas</span> <span class="n">reais</span> <span class="n">com</span> <span class="n">a</span> <span class="n">Voyant</span><span class="o">.</span>
+
+<span class="o">-</span> <span class="n">Use</span><span class="o">-</span><span class="n">o</span> <span class="n">para</span> <span class="n">estudar</span> <span class="n">textos</span> <span class="n">que</span> <span class="n">encontra</span> <span class="n">na</span> <span class="n">web</span> <span class="n">ou</span> <span class="n">textos</span> <span class="n">que</span> <span class="n">editou</span> <span class="n">cuidadosamente</span> <span class="n">e</span> <span class="n">tem</span> <span class="n">no</span> <span class="n">seu</span> <span class="n">computador</span><span class="o">.</span>
+
+<span class="o">-</span> <span class="n">Use</span><span class="o">-</span><span class="n">o</span> <span class="n">para</span> <span class="n">adicionar</span> <span class="n">funcionalidade</span> <span class="n">a</span> <span class="n">suas</span> <span class="n">coleções</span> <span class="n">online</span><span class="p">,</span> <span class="n">jornais</span><span class="p">,</span> <span class="n">blogs</span> <span class="n">ou</span> <span class="n">sites</span> <span class="n">da</span> <span class="n">web</span> <span class="n">para</span> <span class="n">que</span> <span class="n">outras</span> <span class="n">pessoas</span> <span class="n">possam</span> <span class="n">ver</span> <span class="n">seus</span> <span class="n">textos</span> <span class="n">com</span> <span class="n">ferramentas</span> <span class="n">analíticas</span><span class="o">.</span>
+
+<span class="o">-</span> <span class="n">Use</span><span class="o">-</span><span class="n">o</span> <span class="n">para</span> <span class="n">adicionar</span> <span class="n">evidências</span> <span class="n">interativas</span> <span class="n">aos</span> <span class="n">seus</span> <span class="n">ensaios</span> <span class="n">que</span> <span class="n">você</span> <span class="n">publica</span> <span class="n">online</span><span class="o">.</span> <span class="n">Adicione</span> <span class="n">painéis</span> <span class="n">interativos</span> <span class="n">diretamente</span> <span class="n">em</span> <span class="n">seus</span> <span class="n">ensaios</span> <span class="n">de</span> <span class="n">pesquisa</span> <span class="p">(</span><span class="n">se</span> <span class="n">eles</span> <span class="n">puderem</span> <span class="n">ser</span> <span class="n">publicados</span> <span class="n">online</span><span class="p">)</span> <span class="n">para</span> <span class="n">que</span> <span class="n">seus</span> <span class="n">leitores</span> <span class="n">possam</span> <span class="n">recapitular</span> <span class="n">seus</span> <span class="n">resultados</span><span class="o">.</span>
+
+<span class="o">-</span> <span class="n">Use</span><span class="o">-</span><span class="n">o</span> <span class="n">para</span> <span class="n">desenvolver</span> <span class="n">suas</span> <span class="n">próprias</span> <span class="n">ferramentas</span> <span class="n">usando</span> <span class="n">nossa</span> <span class="n">funcionalidade</span> <span class="n">e</span> <span class="n">código</span><span class="o">.</span> 
+</pre></div>
+</div>
+</div>
+<div class="section" id="distant-reading">
+<h2>Distant Reading<a class="headerlink" href="#distant-reading" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p>A leitura distante é uma abordagem em estudos literários que aplica métodos computacionais a dados literários, geralmente derivados de grandes bibliotecas digitais, para fins de história e teoria literárias. Embora o termo seja coletivo e seja usado para se referir a uma gama de diferentes métodos computacionais de análise de dados literários, abordagens semelhantes também incluem macroanálise, análise cultural, formalismo computacional, estudos literários computacionais, estudos literários quantitativos e crítica literária algorítmica.</p>
+</div></blockquote>
+<p>Fonte: <a class="reference external" href="https://en.wikipedia.org/wiki/Distant_reading">Wikipedia</a></p>
+</div>
+<div class="section" id="exemplo-corpus-port-of-spain-gazette-1882-1909">
+<h2>Exemplo: Corpus Port-of-Spain Gazette (1882-1909)<a class="headerlink" href="#exemplo-corpus-port-of-spain-gazette-1882-1909" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://u.pc.cd/07M7">Link para o corpus</a></p>
 <ol class="simple">
-<li><p><a class="reference external" href="http://u.pc.cd/jIUctalK">O’NEIL, CATHY. Componentes da bomba. O que é um modelo? In: <strong>Algoritmos de Destruição em massa</strong>. São Paulo: Editora Rua do Sabão, 2020. pp. 25-50</a></p></li>
-<li><p><a class="reference external" href="http://u.pc.cd/QHsrtalK">NOBLE, Safiya Umoja. Introdução. In: <strong>Algoritmos da opressão</strong>. São Paulo: Editora Rua do Sabão, 2021. pp. 7-28</a></p></li>
+<li><p>Abrir Corpus</p></li>
+<li><p>Layout</p></li>
+<li><p>Cirrus</p></li>
+<li><p>Links</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">labour</span></code></p></li>
+</ul>
+</li>
+<li><p>Tendências</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">hard;</span> <span class="pre">labour;</span> <span class="pre">fight;</span> <span class="pre">stick;</span> <span class="pre">police</span></code></p></li>
+</ul>
+</li>
+<li><p>Contextos</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">hard</span> <span class="pre">labour</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">woman</span></code></p></li>
+</ul>
+</li>
 </ol>
 </div>
 </div>
@@ -481,24 +572,6 @@
 
 <div class='prev-next-bottom'>
     
-    <div id="prev">
-        <a class="left-prev" href="sem8.html" title="previous page">
-            <i class="prevnext-label fas fa-angle-left"></i>
-            <div class="prevnext-info">
-                <p class="prevnext-label">previous</p>
-                <p class="prevnext-title">Semana 8</p>
-            </div>
-        </a>
-    </div>
-     <div id="next">
-        <a class="right-next" href="../mod3/intro.html" title="next page">
-            <div class="prevnext-info">
-                <p class="prevnext-label">next</p>
-                <p class="prevnext-title">3. Algoritmos, Dataficação e Sociedade</p>
-            </div>
-            <i class="prevnext-label fas fa-angle-right"></i>
-        </a>
-     </div>
 
 </div>
         

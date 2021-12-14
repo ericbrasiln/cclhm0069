@@ -66,7 +66,7 @@ Não é obrigatório participar através do Discord. O convite para participar n
 ## Avaliação da aprendizagem
 
 - O/a discente terá duas atividades avaliativas que devem ser entregues pelo SIGAA ao longo do curso;
-- Os prazos estão definidos no cronograma do curso.
+- Os prazos estão definidos no [cronograma do curso](2_1_cronograma-4a).
 - As frequências serão aferidas através da entrega das atividades avaliativas.
 - Atividade 1: reflexão teórica, valor 4,0 pontos;
 - Atividade 2: Resultado prático digital, valor 6,0 pontos

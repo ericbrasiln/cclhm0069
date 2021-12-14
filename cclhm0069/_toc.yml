@@ -62,6 +62,8 @@ parts:
       title: Semana 13
     - file: mod4a/sem14
       title: Semana 14
+    - file: mod4a/sem15
+      title: Semana 15
   - caption: Módulo 4b - Paragramação para História
     chapters:
     - file: mod4b/intro
@@ -74,6 +76,8 @@ parts:
       title: Semana 13
     - file: mod4b/sem14
       title: Semana 14
+    - file: mod4b/sem15
+      title: Semana 15
   - caption: Atividades Avaliativas
     chapters:
     - file: at_aval/at1

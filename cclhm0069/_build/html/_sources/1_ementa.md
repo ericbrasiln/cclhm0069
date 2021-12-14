@@ -18,7 +18,7 @@
 | :------ | :---------------------------------- | :---- |
 | 60h     | 15h                                 | 75h   |
 
-**Horário das aulas síncronas** (conforme cronograma): quartas-feiras, 19h às 21h
+**Horário das aulas síncronas** (conforme [cronograma](2_1_cronograma-4a.ipynb)): quartas-feiras, 19h às 21h
 
 ***
 

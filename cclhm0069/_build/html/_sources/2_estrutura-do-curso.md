@@ -39,8 +39,8 @@ Abaixo, a estrutura dos módulos. Em breve será divulgado o cronograma completo
 | Tipo de atividade | Quantidade        | CH   |
 | ----------------- | ----------------- | ---- |
 | EV [workshops]    | 3 (2h30)          | 7h30 |
-| AA                | 1 (2h30) + 1 (2h) | 4h30 |
-| Leitura           | 1 (4h)            | 4h   |
+| AA                | 2 (2h30) + 1 (1h) | 6h |
+| Leitura           | 1 (2h30)            | 2h30   |
 
 * Carga horária total: 16h
 * Dificuldade Baixa
@@ -50,7 +50,8 @@ Abaixo, a estrutura dos módulos. Em breve será divulgado o cronograma completo
 1. Workshop 01: Repositórios de fontes online e a pesquisa digital
 2. Vídeo-aula: Organização: Zotero
 3. Workshop 02: Tratamento de texto com OCR
-4. Workshop 03: Análise de texto: Voyant tools e TagTog
+4. Vídeo de apoio: TagTog
+5. Workshop 03: Análise de texto: Voyant tools
 
 ---
 
@@ -58,10 +59,11 @@ Abaixo, a estrutura dos módulos. Em breve será divulgado o cronograma completo
 
 | Tipo de atividade     | Quantidade | CH   |
 | --------------------- | ---------- | ---- |
-| EV [Debates de texto] | 2 (2h)     | 4h   |
-| Leitura               | 2 (3h)     | 6h   |
+| EV [Debates de texto] | 1 (2h)     | 2h   |
+| Leitura               | 1 (3h)     | 3h   |
+| AA                    | 1 (2h)     | 2h   |
 
-* Carga horária total: 10h
+* Carga horária total: 7h
 * Dificuldade Baixa
 
 #### Temas
@@ -82,8 +84,10 @@ A partir daqui, o/a discente deve escolher um dos módulos a seguir para cursar.
 | Tipo de atividade | Quantidade | CH   |
 | ----------------- | ---------- | ---- |
 | AA [Tutoriais]    | 4          | 10h  |
+| AA [Tarefa]       | 1          | 2h   |
+| EV 7 [Workshop]   | 1          | 2h   |
 
-* Carga horária total: 10h
+* Carga horária total: 14h
 * Dificuldade: Média
 
 #### Temas
@@ -91,6 +95,7 @@ A partir daqui, o/a discente deve escolher um dos módulos a seguir para cursar.
 1. Markdown
 2. [StoryMapJs](https://storymap.knightlab.com/)
 3. [Reveal.js](https://revealjs.com/)
+4. Podcast  para ensino de história
 
 ---
 
@@ -98,8 +103,9 @@ A partir daqui, o/a discente deve escolher um dos módulos a seguir para cursar.
 
 | Tipo de atividade  | Quantidade | CH   |
 | ------------------ | ---------- | ---- |
-| EV [*Live coding*] | 4 (2h30)   | 10h  |
-| AA                 | 2 (2h)     | 4h   |
+| EV [*Live coding*] | 3 (2h30)   | 7h30 |
+| AA                 | 1 (2h30)   | 4h30 |
+| EV [Workshop]      | 1 (2h)     | 2h   |
 
 * Carga horária total: 14h
 * Dificuldade: Alta

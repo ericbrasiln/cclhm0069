@@ -61,6 +61,8 @@ Para maiores informações sobre o Zotero, veja:
 
 ### Plágio
 
+Todos os trabalhos serão submetidos à análise do programa Turnitin Originality, que é um software de análise de plágio e similaridades.
+
 Qualquer atividade com ocorrência de plágio será zerada.
 
 Lembrem que é preciso citar e explicitar os trechos e ideias de outros autores que sejam utilizadas por vcs na escrita das atividades.

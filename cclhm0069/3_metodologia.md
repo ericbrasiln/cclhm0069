@@ -65,8 +65,7 @@ Não é obrigatório participar através do Discord. O convite para participar n
 
 ## Avaliação da aprendizagem
 
-- O/a discente terá duas atividades avaliativas que devem ser entregues pelo SIGAA ao longo do curso;
-- Os prazos estão definidos no [cronograma do curso](2_1_cronograma-4a).
-- As frequências serão aferidas através da entrega das atividades avaliativas.
-- Atividade 1: reflexão teórica, valor 4,0 pontos;
-- Atividade 2: Resultado prático digital, valor 6,0 pontos
+- O/a discente terá uma atividade avaliativa que deve ser entregue pelo SIGAA até o dia 18 de fevereiro de 2022;
+- As frequências serão aferidas através da entrega da atividade avaliativa.
+- Os estudantes podem optar por realizar a atividade de reflexão teórica ou prática.
+- Todos os detalhes estão explicados no seguinte [link](https://ericbrasiln.github.io/intro-historia-digital/at_aval/at_aval.html)

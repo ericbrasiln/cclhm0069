@@ -28,28 +28,49 @@ parts:
       title: Semana 2
     - file: mod1/sem3
       title: Semana 3
+      sections:
+      - file: mod1/sem3_ap.ipynb
+        title: Apresentação
     - file: mod1/sem4
       title: Semana 4
+      sections:
+      - file: mod1/sem4_ap.ipynb
+        title: Apresentação
   - caption: Módulo 2 - Ferramentas digitais e pesquisa em história
     chapters:
     - file: mod2/intro
       title: Introdução
     - file: mod2/sem5
       title: Semana 5
+      sections:
+      - file: mod2/sem5_ap.ipynb
+        title: Apresentação
     - file: mod2/sem6
       title: Semana 6
+      sections:
+      - file: mod2/sem6_ap.ipynb
+        title: Apresentação
     - file: mod2/sem7
       title: Semana 7
+      sections:
+      - file: mod2/sem7_ap.ipynb
+        title: Apresentação
     - file: mod2/sem8
       title: Semana 8
     - file: mod2/sem9
       title: Semana 9
+      sections:
+      - file: mod2/sem9_ap.ipynb
+        title: Apresentação
   - caption: Módulo 3 - Algoritmos, Dataficação e Sociedade
     chapters:
     - file: mod3/intro
       title: Introdução
     - file: mod3/sem10
       title: Semana 10
+      sections:
+      - file: mod3/sem10_ap.ipynb
+        title: Apresentação
   - caption: Módulo 4a - Ferramentas digitais e ensino de história
     chapters:
     - file: mod4a/intro
@@ -74,16 +95,19 @@ parts:
       title: Semana 12
     - file: mod4b/sem13
       title: Semana 13
+      sections:
+      - file: mod4b/sem13_ap.ipynb
+        title: Apresentação
     - file: mod4b/sem14
       title: Semana 14
     - file: mod4b/sem15
       title: Semana 15
-  - caption: Atividades Avaliativas
+    - file: mod4b/sem16
+      title: Semana 16
+  - caption: Atividade Avaliativa
     chapters:
-    - file: at_aval/at1
-      title: AT1
-    - file: at_aval/at2
-      title: AT2
+    - file: at_aval/at_aval
+      title: Informações
   - caption: Contatos
     chapters:
     - file: contatos

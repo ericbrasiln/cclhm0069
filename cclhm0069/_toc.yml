@@ -100,10 +100,16 @@ parts:
         title: Apresentação
     - file: mod4b/sem14
       title: Semana 14
+      sections:
+      - file: mod4b/exercicios.ipynb
+        title: Exercícios
     - file: mod4b/sem15
       title: Semana 15
     - file: mod4b/sem16
       title: Semana 16
+      sections:
+      - file: mod4b/exemplos.ipynb
+        title: Exemplos de uso
   - caption: Atividade Avaliativa
     chapters:
     - file: at_aval/at_aval
